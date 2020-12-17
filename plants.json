@@ -2,79 +2,131 @@
   {
     "plantId": "1",
     "name": "Apple",
-    "description": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.\n\nCommon Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.",
+    "family": "Rosaceae",
+    "Genus": "Malus",
+    "ScientificName": "Malus domestica",
+    "InventedYear": "1803",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg"
   },
   {
     "plantId": "2",
     "name": "Beet",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "The beetroot is the taproot portion of a beet plant, usually known in Canada and the USA as beets while the vegetable is referred to as beetroot in British English, and also known as the table beet, garden beet, red beet, dinner beet or golden beet.",
+    "family": "Amaranthaceae",
+    "Genus": "Beta",
+    "ScientificName": "Beta vulgaris",
+    "InventedYear": "1753",
     "imageUrl": "https://static.pexels.com/photos/264101/pexels-photo-264101.jpeg"
   },
   {
     "plantId": "3",
     "name": "Celery",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "Celery is a marshland plant in the family Apiaceae that has been cultivated as a vegetable since antiquity. Celery has a long fibrous stalk tapering into leaves. Depending on location and cultivar, either its stalks, leaves or hypocotyl are eaten and used in cooking.",
+    "family": "Apiaceae",
+    "Genus": "Apium",
+    "ScientificName": "Apium graveolens",
+    "InventedYear": "9th BC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG"
   },
   {
     "plantId": "4",
     "name": "Tomato",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico.",
+    "family": "Solanaceae",
+    "Genus": "Solanum",
+    "ScientificName": "Solanum lycopersicum",
+    "InventedYear": "5th BC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cherry_tomatoes_red_and_green_2009_16x9.jpg"
   },
   {
     "plantId": "5",
     "name": "Avocado",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "The avocado (Persea americana), a tree likely originating from south central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.",
+    "family": "Lauraceae",
+    "Genus": "Persea",
+    "ScientificName": "Persea americana",
+    "InventedYear": "Around 9,000 to 10,000 years ago",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Branch_and_fruit_of_the_Maluma_avocado_cultivar.jpg"
   },
   {
     "plantId": "6",
     "name": "Pear",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "Pears are fruits produced and consumed around the world, growing on a tree and harvested in late Summer into October. The pear tree and shrub are a species of genus Pyrus in the family Rosaceae, bearing the pomaceous fruit of the same name.",
+    "family": "Rosaceae",
+    "Genus": "Pyrus",
+    "ScientificName": "Pyrus amygdaliformis",
+    "InventedYear": "2000 BC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/More_pears.jpg"
   },
   {
     "plantId": "7",
     "name": "Eggplant",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "Eggplant is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit. Most commonly purple, the spongy, absorbent fruit is used in several cuisines.",
+    "family": "Solanaceae",
+    "Genus": "Solanum",
+    "ScientificName": "Solanum melongena",
+    "InventedYear": "544 C.E.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eggplant_display.JPG"
   },
   {
     "plantId": "8",
     "name": "Grape",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, grape juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil.",
+    "family": "Vitaceae",
+    "Genus": "Vitis",
+    "ScientificName": "Vitis vinifera",
+    "InventedYear": "6000–8000 years ago",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Grape_Plant_and_grapes9.jpg"
   },
   {
     "plantId": "9",
     "name": "Mango",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "A mango is a stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. Most of these species are found in nature as wild mangoes.",
+    "family": "Anacardiaceae",
+    "Genus": "Mangifera",
+    "ScientificName": "Mangifera indica",
+    "InventedYear": "Around 2000 BCE",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mangos_criollos_y_pera.JPG"
   },
   {
     "plantId": "10",
     "name": "Orange",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, referred to as bitter orange. The orange originated in a region encompassing Southern China, Northeast India, and Myanmar.",
+    "family": "Rutaceae",
+    "Genus": "Citrus",
+    "ScientificName": "Citrus reticulata",
+    "InventedYear": "314 BC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Apfelsinenbaum--Orange_tree.jpg"
   },
   {
     "plantId": "11",
     "name": "Rose",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.",
+    "family": "Rosaceae",
+    "Genus": "Rosa",
+    "ScientificName": "Rosa abyssinica",
+    "InventedYear": "Second-century AD",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bouquet_de_roses_roses.jpg"
   },
   {
     "plantId": "12",
     "name": "Watermelon",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "Watermelon is a flowering plant species of the Cucurbitaceae family . A scrambling and trailing vine-like plant, it was originally domesticated in Africa. It is a highly cultivated fruit worldwide, with more than 1,000 varieties. Watermelon is grown in favorable climates from tropical to temperate regions worldwide for its large edible fruit.",
+    "family": "Cucurbitaceae",
+    "Genus": "Citrullus",
+    "ScientificName": "Citrullus lanatus",
+    "InventedYear": "2nd millenium BC",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/01266jfWatermelons_Philippines_textures_Apolonio_Samson_Market_Quezon_Cityfvf_02.jpg"
   },
   {
     "plantId": "13",
     "name": "Hibiscus",
-    "description": "Common Name : \nFamily : \nFamily Common Name : \nGenus : \nScientific Name : \nInvented Year : \n",
+    "description": "Hibiscus is a genus of flowering plants in the mallow family, Malvaceae. The genus is quite large, comprising several hundred species that are native to warm temperate, subtropical and tropical regions throughout the world. Member species are renowned for their large, showy flowers and those species are commonly known simply as \"hibiscus\".",
+    "family": "Malvaceae",
+    "Genus": "Hibiscus",
+    "ScientificName": "Hibiscus syriacus",
+    "InventedYear": "16th Century",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hibiscus_rosa-sinensis_flower_2.JPG"
   }
 ]
